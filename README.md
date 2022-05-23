@@ -46,9 +46,9 @@ h1 부터 h6 까지 제목을 표현할 수 있다.
 취소선: ~물결(tilde)~
 ```
     
-이테릭체: _언더바(underscore)_ or *별표(asterisks)*
-두껍게: __언더바(underscore)__ or **별표(asterisks)**
-취소선: ~물결(tilde)~
+이테릭체: _언더바(underscore)_ or *별표(asterisks)*  
+두껍게: __언더바(underscore)__ or **별표(asterisks)**  
+취소선: ~물결(tilde)~  
 
 -------------------------------------------------------------------
 
