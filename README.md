@@ -15,7 +15,7 @@
 - 수평선(Horizontal Rule)
 - 줄바꿈(Line Breaks)
 
-## 제목(Header)
+## 제목(header)
 <h1>부터 <h6>까지 제목을 표현할 수 있다.
 
 # 제목 1
