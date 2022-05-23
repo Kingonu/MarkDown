@@ -1,7 +1,7 @@
 # 마크다운(MarkDown) 문법
 
 - 목차
-- [제목(Header)](#제목(header))
+- [제목(Header)](#　)
 - 강조(Emphasis)
 - 목록(List)
 - 링크(Links)
@@ -15,7 +15,8 @@
 - 수평선(Horizontal Rule)
 - 줄바꿈(Line Breaks)
 
-## 제목(header)
+## 제목(Header)
+## 　
 <h1>부터 <h6>까지 제목을 표현할 수 있다.
 
 # 제목 1
