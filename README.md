@@ -16,10 +16,10 @@
 - 줄바꿈(Line Breaks)
 
 ## 제목(Header)
-## 　
 <h1>부터 <h6>까지 제목을 표현할 수 있다.
 
-# 제목 1
+```css
+# 제목 1 
 ## 제목 2
 ### 제목 3
 #### 제목 4
@@ -29,7 +29,7 @@
 이테릭체: _언더바(underscore)_ or *별표(asterisks)*
 두껍게: __언더바(underscore)__ or **별표(asterisks)**
 취소선: ~물결(tilde)~
-
+```
 
 
 목록(List)
