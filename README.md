@@ -1,21 +1,21 @@
-마크다운(MarkDown) 문법
-마크다운 문법에 대해 공부하다보니 내가 정리하는게 나을 것 같아 정리한다.
+# 마크다운(MarkDown) 문법
 
-목차
-제목(Header)
-강조(Emphasis)
-목록(List)
-링크(Links)
-각주(Footnotes)
-접기
-이스케이프(Backslash Escapes)
-이미지(Images)
-코드(Code) 강조
-표(Table)
-인용문(BlockQuote)
-수평선(Horizontal Rule)
-줄바꿈(Line Breaks)
-제목(Header)
+- 목차
+- [제목(Header)](#제목(Header))
+- 강조(Emphasis)
+- 목록(List)
+- 링크(Links)
+- 각주(Footnotes)
+- 접기
+- 이스케이프(Backslash Escapes)
+- 이미지(Images)
+- 코드(Code) 강조
+- 표(Table)
+- 인용문(BlockQuote)
+- 수평선(Horizontal Rule)
+- 줄바꿈(Line Breaks)
+
+## 제목(Header)
 <h1>부터 <h6>까지 제목을 표현할 수 있다.
 
 # 제목 1
