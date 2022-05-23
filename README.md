@@ -16,7 +16,7 @@
 - 줄바꿈(Line Breaks)
 
 ## 제목(Header)
-'<h1>부터 <h6>까지 제목을 표현할 수 있다.'
+//<h1>부터 <h6>까지 제목을 표현할 수 있다.
     
 ```cs
 # 제목 1 
@@ -25,6 +25,7 @@
 #### 제목 4
 ##### 제목 5
 ###### 제목 6
+    
 강조(Emphasis)
 이테릭체: _언더바(underscore)_ or *별표(asterisks)*
 두껍게: __언더바(underscore)__ or **별표(asterisks)**
