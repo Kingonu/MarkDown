@@ -1,7 +1,7 @@
 # 마크다운(MarkDown) 문법
 
 - 목차
-- [제목(Header)](#제목(Header))
+- [제목(Header)](#제목(header))
 - 강조(Emphasis)
 - 목록(List)
 - 링크(Links)
